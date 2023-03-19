@@ -16,6 +16,4 @@ Here are a couple of previews of the website!!
 
 Below is the link to the deployed application:
 
-
-
-
+https://jonjons06.github.io/Challenge-One/
