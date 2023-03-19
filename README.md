@@ -7,6 +7,15 @@ The tasks involved in this challenge include.
 * Enhance the efficiency of the CSS structure and correct incorrect styling.
 * Ensure that all links in the website are operating properly.
 
-Here is a preview of the website!!
-![Screenshot 2023-03-19 at 5 43 19 PM (3)](https://user-images.githubusercontent.com/124073266/226211605-aec7619a-4d39-4d00-a95d-11bbe50aa33e.png)
+Here are a couple of previews of the website!!
+
+[Screenshot 2023-03-19 at 5 47 47 PM](https://user-images.githubusercontent.com/124073266/226211727-fa1c51d7-c5ce-436d-bca5-d417197f76fe.png)
+ 
+![Screenshot 2023-03-19 at 5 49 49 PM](https://user-images.githubusercontent.com/124073266/226211800-30823751-8862-422e-a5dc-8cf7e33578bb.png)
+
+
+Below is the link to the deployed application:
+
+
+
 
